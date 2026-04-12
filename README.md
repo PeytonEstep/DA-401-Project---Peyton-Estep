@@ -42,7 +42,7 @@ As AI tools are increasingly used for mental health support, inconsistent safety
 - 401 Project.html -> jupyter notebook
 - First Draft -> first draft of research paper
 	
-References: 
+## References 
    Lauderdale, S., Griffin, S., Lahman, K., Eno Mbaba, & Tomlinson, S. (2025). Unveiling Public Stigma for Borderline Personality Disorder: A Comparative Study of Artificial Intelligence and Mental Health Care Providers. Personality and Mental Health, 19(2). https://doi.org/10.1002/pmh.70018 
    McBain, R. K., Bozick, R., Diliberti, M., Zhang, L. A., Zhang, F., Burnett, A., Kofner, A., Rader, B., Breslau, J., Stein, B. D., Mehrotra, A., Pines, L. U., Cantor, J., & Yu, H. (2025). Use of Generative AI for Mental Health Advice Among US Adolescents and Young Adults. JAMA Network Open, 8(11), e2542281. https://doi.org/10.1001/jamanetworkopen.2025.42281
   Mello-Klein, C. (2026, February 23). How can you avoid AI sycophancy? Keep it professional, researchers say. Northeastern Global News. https://news.northeastern.edu/2026/02/23/llm-sycophancy-ai-chatbots/ 
