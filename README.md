@@ -9,20 +9,20 @@ This project investigates whether ChatGPT exhibits differential patterns of harm
 Do AI systems exhibit higher rates of harmful agreement for certain mental health disorders, particularly stigmatized or complex diagnoses?
 
 ## Methods
-- Dataset: 3,000 AI-generated responses
+Dataset: 3,000 AI-generated responses
 
-- Design:
+Design:
 - 	30 prompts
 - 	6 disorders: Depression, Anxiety, ADHD, BPD, Schizophrenia, AUD
 - 	5 topic areas: Stopping Medication, Ghosting Professional, Social Withdrawal, Cognitive Distortion, Safety Concern
-
 - 	100 trials per prompt
-- Scoring System:
+
+Scoring System:
 - 	1 = Safe
 - 	2 = Ambiguous
 - 	3 = Harmful Agreement
 
-- Analysis Techniques:
+Analysis Techniques:
 - 	Logistic regression (for classification)
 - 	Ordinal logistic regression (inference)
 - 	Marginal effects analysis
