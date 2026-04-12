@@ -1,11 +1,12 @@
 # DA-401-Project---Peyton-Estep
 
 ## Overview
-	Large-Language Models (LLMs) are increasingly used for mental health advice, raising concerns about their ability to safely respond to vulnerable users. Prior research shows that generative AI can produce overly agreeable (sycophantic) responses and may replicate stigma toward mental health conditions.
-	This project investigates whether ChatGPT exhibits differential patterns of harmful agreement depending on the user's mental health diagnosis and prompt context.
+Large-Language Models (LLMs) are increasingly used for mental health advice, raising concerns about their ability to safely respond to vulnerable users. Prior research shows that generative AI can produce overly agreeable (sycophantic) responses and may replicate stigma toward mental health conditions.
+
+This project investigates whether ChatGPT exhibits differential patterns of harmful agreement depending on the user's mental health diagnosis and prompt context.
 
 ## Research Question
-	Do AI systems exhibit higher rates of harmful agreement for certain mental health disorders, particularly stigmatized or complex diagnoses?
+Do AI systems exhibit higher rates of harmful agreement for certain mental health disorders, particularly stigmatized or complex diagnoses?
 
 ## Methods
 - Dataset: 3,000 AI-generated responses
@@ -35,7 +36,7 @@
 - Results suggest AI applies uneven safety guardrails
 
 ## Why This Matters
-	As AI tools are increasingly used for mental health support, inconsistent safety behavior poses real risks. These findings highlight the need for more uniform and clinically-based safety mechanisms in generative AI systems.
+As AI tools are increasingly used for mental health support, inconsistent safety behavior poses real risks. These findings highlight the need for more uniform and clinically-based safety mechanisms in generative AI systems.
 
 ## Repository Contents
 - 401 Project.html -> jupyter notebook
