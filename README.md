@@ -39,13 +39,26 @@ Analysis Techniques:
 As AI tools are increasingly used for mental health support, inconsistent safety behavior poses real risks. These findings highlight the need for more uniform and clinically-based safety mechanisms in generative AI systems.
 
 ## Repository Contents
-- 401 Project.html -> jupyter notebook
-- First Draft -> first draft of research paper
+- 01_Training_Set.ipynb -> training dataset development
+- 02_Full_Data_Acquisition.ipynb -> primary data collection via ChatGPT API
+- 03_Scoring_Audit.ipynb -> text classification and score audit
+- 04_Main_Analysis.ipynb -> statistical analyses
+- Final_Report.pdf -> final report of findings
+- Training_Dataset.xls -> manually collected responses without scores
+- Training_Dataset_Scored.csv -> manually collected responses with scores
+- Empty_Full_Scale.xls -> full 3,000 rows without AI responses
+- Full_Dataset.xls -> full 3,000 rows with AI responses
+- Scikit_Audit_Results.xls -> full 3,000 rows with refined scores from logistic regression and keyword matching
 	
 ## References 
+
    Lauderdale, S., Griffin, S., Lahman, K., Eno Mbaba, & Tomlinson, S. (2025). Unveiling Public Stigma for Borderline Personality Disorder: A Comparative Study of Artificial Intelligence and Mental Health Care Providers. Personality and Mental Health, 19(2). https://doi.org/10.1002/pmh.70018 
+   
    McBain, R. K., Bozick, R., Diliberti, M., Zhang, L. A., Zhang, F., Burnett, A., Kofner, A., Rader, B., Breslau, J., Stein, B. D., Mehrotra, A., Pines, L. U., Cantor, J., & Yu, H. (2025). Use of Generative AI for Mental Health Advice Among US Adolescents and Young Adults. JAMA Network Open, 8(11), e2542281. https://doi.org/10.1001/jamanetworkopen.2025.42281
+   
   Mello-Klein, C. (2026, February 23). How can you avoid AI sycophancy? Keep it professional, researchers say. Northeastern Global News. https://news.northeastern.edu/2026/02/23/llm-sycophancy-ai-chatbots/ 
+  
   Moore, J., Grabb, D., Agnew, W., Klyman, K., Chancellor, S., Ong, D. C., & Haber, N. (2025). Expressing stigma and inappropriate responses prevents LLMs from safely replacing mental health providers. ArXiv.org. https://doi.org/10.1145/3715275.3732039 
+  
   Payne, K. (2024, October 26). AI Chatbot Pushed Teen to Kill himself, Lawsuit Alleges. AP News; The Associated Press. https://apnews.com/article/chatbot-ai-lawsuit-suicide-teen-artificial-intelligence-9d48adc572100822fdbc3c90d1456bd0
 
